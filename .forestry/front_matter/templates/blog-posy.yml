@@ -17,5 +17,10 @@ fields:
     min: 
     max: 
     step: 
+- name: refautore
+  type: include
+  config: {}
+  template: autore
+  label: refAutore
 pages:
 - pip.md
