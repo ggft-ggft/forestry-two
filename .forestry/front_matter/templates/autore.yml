@@ -8,5 +8,6 @@ fields:
     required: false
   label: nome
 pages:
+- autori/autori/unaltraaaa.md
 - autori/autori/unaltro.md
 - giuliano.md
