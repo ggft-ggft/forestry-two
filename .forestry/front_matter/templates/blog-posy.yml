@@ -1,4 +1,19 @@
 ---
 label: Blog posy
 hide_body: false
-fields: []
+fields:
+- name: titolo
+  type: text
+  config:
+    required: false
+  label: titolo
+- name: rating
+  type: number
+  label: rating
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
