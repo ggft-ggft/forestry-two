@@ -1,4 +1,9 @@
 ---
 label: Autore
 hide_body: true
-fields: []
+fields:
+- name: nome
+  type: text
+  config:
+    required: false
+  label: nome
